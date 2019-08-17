@@ -1,5 +1,7 @@
-
----------------motor ha yea--------------------
+ fun add
+ fun divie
+ fun odd
+ fun even
 
 
 
