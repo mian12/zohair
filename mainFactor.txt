@@ -2,4 +2,6 @@ func1---cool  ha
 fun2---
 this is 2nd function
 
+func 4
+
 
