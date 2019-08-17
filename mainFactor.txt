@@ -1,6 +1,4 @@
-func1---this is  very clear factor
+func1---
 this is 2nd function
 
 
-
-zoo
