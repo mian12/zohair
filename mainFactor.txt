@@ -1,4 +1,4 @@
-this is clear factor
+func1---this is clear factor
 this is 2nd function
 
 
